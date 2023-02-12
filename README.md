@@ -1,3 +1,9 @@
+<style>
+h1 {
+ color: pink; 
+} 
+</style>
+
 <br><img align="left"  height="150" width="140" src="https://loogart.com/img/loogmoji/iconic/loogmoji-of-arya-stark_by-loogart.png">
 <img align="right"  height="150" width="140" src="https://loogart.com/img/loogmoji/iconic/loogmoji-of-ema-watson_by-loogart.png"><br>
 <h1 align="center"> Oie! Eu me chamo <a href="https://www.linkedin.com/in/luana-elis/" target="_blank">Luana Elis</a> 🤗 </h1>
